@@ -9,6 +9,7 @@ Contenido:
 ├──Sección 1 - Introducción
 
 ├──Sección 2 - Desarrollo de Software en Java
+
 ├──Sección 3 - Tipos de dato Java
     
 ├──Sección 4 - Clases de biblioteca y métodos
@@ -24,16 +25,14 @@ Contenido:
 ├──Sección 9 - JavaFX
     
 -Archivos de práctica:
-├──
-├──
-├──
-    JFo_1_Practice_esp.pdf
-    JFo_3_Practice_esp.pdf
-    JFo_4_Practice_esp.pdf
-    JFo_5_Practice_esp.pdf
-    JFo_6_Practice_esp.pdf
-    JFo_7_Practice_esp.pdf
-    JFo_8_Practice_esp.pdf
+
+├──JFo_1_Practice_esp.pdf
+├──JFo_3_Practice_esp.pdf
+├──JFo_4_Practice_esp.pdf
+├──JFo_5_Practice_esp.pdf
+├──JFo_6_Practice_esp.pdf
+├──JFo_7_Practice_esp.pdf
+├──JFo_8_Practice_esp.pdf
     JFo_9_Practice_esp.pdf
 
 Database Programming with SQL🛢:
