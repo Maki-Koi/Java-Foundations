@@ -9,7 +9,6 @@ Contenido:
 ├──Sección 1 - Introducción
 
 ├──Sección 2 - Desarrollo de Software en Java
-
 ├──Sección 3 - Tipos de dato Java
     
 ├──Sección 4 - Clases de biblioteca y métodos
