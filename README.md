@@ -3,7 +3,8 @@ Materiales del Cursos de Oracle Academy 🎓
 Contenido:
 Java Foundations☕︎:
     Sección 0 - Recursos del curso
-    Sección 1 - Introducción
+    
+Sección 1 - Introducción
     Sección 2 - Desarrollo de Software en Java
     Sección 3 - Tipos de dato Java
     Sección 4 - Clases de biblioteca y métodos
