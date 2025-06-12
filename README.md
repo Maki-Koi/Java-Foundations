@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2DD427"/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12F71B&width=435&lines=Maki+Koi)](https://git.io/typing-svg)
+
 # Oracle Academy en español
 Materiales del Cursos de Oracle Academy 🎓
 Contenido:
