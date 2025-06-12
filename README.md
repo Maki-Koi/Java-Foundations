@@ -2,18 +2,32 @@
 Materiales del Cursos de Oracle Academy 🎓
 
 Contenido:
+
 -Java Foundations☕︎:
 ├──Sección 0 - Recursos del curso
+
 ├──Sección 1 - Introducción
-    Sección 2 - Desarrollo de Software en Java
-    Sección 3 - Tipos de dato Java
-    Sección 4 - Clases de biblioteca y métodos
-    Sección 5 - Sentencias de decisión
-    Sección 6 - Construcciones de iteración
-    Sección 7 - Creando clases
-    Sección 8 - Arreglos y Excepciones
-    Sección 9 - JavaFX
-  Archivos de práctica:
+
+├──Sección 2 - Desarrollo de Software en Java
+
+├──Sección 3 - Tipos de dato Java
+    
+├──Sección 4 - Clases de biblioteca y métodos
+    
+├──Sección 5 - Sentencias de decisión
+    
+├──Sección 6 - Construcciones de iteración
+    
+├──Sección 7 - Creando clases
+    
+├──Sección 8 - Arreglos y Excepciones
+    
+├──Sección 9 - JavaFX
+    
+-Archivos de práctica:
+├──
+├──
+├──
     JFo_1_Practice_esp.pdf
     JFo_3_Practice_esp.pdf
     JFo_4_Practice_esp.pdf
