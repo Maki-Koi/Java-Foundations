@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12F71B&width=435&lines=Maki+Koi)](https://git.io/typing-svg)# Oracle Academy en español
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12F71B&width=435&lines=Maki+Koi)](https://git.io/typing-svg)
+# Oracle Academy en español
 Materiales del Cursos de Oracle Academy 🎓
 
 Contenido:
