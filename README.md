@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=2DD427"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2DD427"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2DD427&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+I'm+Maki+Koi.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -85,4 +85,4 @@ Contenido:
 
 ├──Sección 18 - TCL
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2DD427&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2DD427&section=footer"/>
